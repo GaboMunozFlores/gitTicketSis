@@ -11,8 +11,8 @@ Desarrolar un CRM para la empresa x, con la medologia Scrum y las herramientas A
 -LENGUAJE:
 -BASE DE DATOS:
 -FRAMEWORK:
-IDE:
-CVS:
+-IDE:
+-CVS:
 
 ##ARQUITECTURA 
 La arquitectura del proyecto sera
